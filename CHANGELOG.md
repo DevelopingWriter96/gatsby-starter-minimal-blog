@@ -97,8 +97,6 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Bug Fixes
 
-- **minimal-blog:** Use function for SpotifyPlayer example component ([bd2c343](https://github.com/LekoArts/gatsby-themes/commit/bd2c343580c041383a98822de2c622a7d944d93d))
-
 ### Features
 
 - Add bundle-analyzer and lazy-load react-live ([#450](https://github.com/LekoArts/gatsby-themes/issues/450)) ([667fd33](https://github.com/LekoArts/gatsby-themes/commit/667fd33ce6af546cf2250af1e22395a26f45d6a2))
